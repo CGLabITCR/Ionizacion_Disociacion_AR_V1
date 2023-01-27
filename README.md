@@ -1,6 +1,6 @@
 # Ionización y Disociación
 
-<p>Esta App desarrolldada en Unity para AR pretende ser una herramienta de apoyo en el proceso de aprendizaje de estudiantes de química en los temas de ionización y Disociación </p>
+<p>Esta App desarrolldada en Unity para AR pretende ser una herramienta de apoyo en el proceso de aprendizaje de estudiantes de química en los temas de ionización y Disociación molecular.</p>
 
 ## Personas a cargo:
 
